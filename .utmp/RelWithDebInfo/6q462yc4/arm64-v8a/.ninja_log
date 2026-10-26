@@ -1,0 +1,23 @@
+# ninja log v5
+3	6144	8147344925093610	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	dfd279ac9954c9ea
+201	846	8147344872480312	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1e9d21aeb485430e
+174	4362	8147344907313666	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b33cc5824a583096
+850	1219	8147344875886592	C:/Users/Inema/Downloads/Create-with-VR-U6_20260729_021619/VR Room-Inema/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q462yc4/obj/arm64-v8a/libswappywrapper.so	6d6205cc181a743c
+22	3817	8147344901749637	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e87bb49f0f8d34f2
+90	3546	8147344898973723	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	76808bfd893a9aed
+117	3591	8147344898938113	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a7000b5c639e785e
+47	4133	8147344905061207	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	74f253bf2d8f5c20
+146	3745	8147344901176131	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	406a54aba6fae6fc
+69	5251	8147344916270738	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9a05dc43c2dc34e1
+6145	6449	8147344928440361	C:/Users/Inema/Downloads/Create-with-VR-U6_20260729_021619/VR Room-Inema/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q462yc4/obj/arm64-v8a/libgame.so	86a16090fbac3dfb
+93	314	8147372165056384	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1e9d21aeb485430e
+314	502	8147372166766035	C:/Users/Inema/Downloads/Create-with-VR-U6_20260729_021619/VR Room-Inema/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q462yc4/obj/arm64-v8a/libswappywrapper.so	6d6205cc181a743c
+83	1352	8147372175328248	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	76808bfd893a9aed
+45	1355	8147372175444129	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a7000b5c639e785e
+33	1394	8147372175819903	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e87bb49f0f8d34f2
+52	1395	8147372175819903	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	406a54aba6fae6fc
+27	1431	8147372176223140	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	74f253bf2d8f5c20
+75	1503	8147372176905974	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b33cc5824a583096
+60	1616	8147372178035440	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9a05dc43c2dc34e1
+20	1685	8147372178723158	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	dfd279ac9954c9ea
+1685	1797	8147372179867916	C:/Users/Inema/Downloads/Create-with-VR-U6_20260729_021619/VR Room-Inema/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q462yc4/obj/arm64-v8a/libgame.so	86a16090fbac3dfb
