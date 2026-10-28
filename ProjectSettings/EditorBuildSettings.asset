@@ -74,10 +74,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Challenges/03_Training/Scenes/Training_Prototype_Broken.unity
     guid: e10ba84ccef4c43aa995ace104c1bf8c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Leslie Room.unity
     guid: 27db7de597d97c24fb816fd22b8ecb07
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tidy Room.unity
     guid: 0d1e48d655c9ad54e9b68ab9211bc705
   m_configObjects:
